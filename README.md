@@ -9,10 +9,10 @@ I created this YouTube video to demonstrate how to set up this project: https://
 * Jumper Cables
 
 <b>If you need to purchase these items, you can use these links: </b><br>
-Generic NeoPixel LEDs: https://amzn.to/3yeQehN     You can also get the LEDs from Adafruit: https://www.adafruit.com/product/1938 <br>
+5 Pack NeoPixel LEDs: https://amzn.to/3TGMnbu    100 Pack:  https://amzn.to/3vrDg4f     You can also get the LEDs from Adafruit: https://www.adafruit.com/product/1938 <br>
 I highly recommend getting an Arduino Starter Kit if you haven't already: (Arduino, Breadboard, Cables, and MUCH more):  https://amzn.to/3ip5ORy <br>
 <b>Individual items: </b> <br>
-Arduino (clone):  https://amzn.to/3gryOIo    Breadboard:  https://amzn.to/3B6WqtV    Jumper Cables:  https://amzn.to/3koqhHq <br>
+Arduino Uno (clone):  https://amzn.to/3RJWsli    Breadboard:  https://amzn.to/3RJWlWU    Jumper Cables:  https://amzn.to/3koqhHq <br>
 <br>
 <b>Project steps:</b><br>
 Adafruit is a great resource for learning and picking up great products.
